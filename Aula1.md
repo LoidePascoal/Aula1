@@ -59,7 +59,18 @@ O **_jovanny_** quer nos convencer a fazer o curso dele de ~~Linux~~
 ##Link3  
 [Site da Bukaap] [Clique-aqui]  
 
-[Clique-aqui] :(bukaap.com)
+[Clique-aqui] :(bukaap.com)  
+#imagem  
+##imagem1  
+![Camila](/c/Users/silvio/Documents/Aula/Camila.jpg)  
+##imagem2  
+![CardiB][image][image]:/c/Users/silvio/Documents/Aula/CardiB.jpg
+
+##imagem com link1  
+[![DuaLipa](/c/Users/silvio/Documents/Aula/DuaLipa.jpg)   
+(bukaapp.com)]   
+##imagem com link2  
+[![zuleica][image-thumbs]] [image-url][image-thumbs]:(/c/Users/silvio/Documents/Aula/Zuleica.jpg) [image-url]:bukaapp.com
 
 
 
